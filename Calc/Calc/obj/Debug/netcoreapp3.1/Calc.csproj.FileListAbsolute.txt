@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.exe
+C:\Users\ASUS\source\repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.deps.json
+C:\Users\ASUS\source\repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.json
+C:\Users\ASUS\source\repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.dll
+C:\Users\ASUS\source\repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.pdb
+C:\Users\ASUS\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.dll
+C:\Users\ASUS\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.pdb
+C:\Users\ASUS\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.genruntimeconfig.cache
